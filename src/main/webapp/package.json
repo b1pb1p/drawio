@@ -28,7 +28,7 @@
     "crc": "^3.8.0",
     "electron-log": "^4.3.5",
     "electron-progressbar": "^2.0.0",
-    "electron-store": "^8.0.0",
+    "electron-store": "^8.0.1",
     "electron-updater": "^4.3.9",
     "pdf-lib": "^1.16.0"
   },
